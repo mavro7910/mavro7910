@@ -1,0 +1,50 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Kwang-ho Lee profile banner</title>
+  <desc id="desc">A refined engineering themed banner for shipbuilding design and machinery outfitting.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1320"/>
+      <stop offset="0.52" stop-color="#102A38"/>
+      <stop offset="1" stop-color="#163A45"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="140" y1="305" x2="1060" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#45C4B0"/>
+      <stop offset="1" stop-color="#8FD6FF"/>
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.28 0 0 0 0 0.77 0 0 0 0 0.69 0 0 0 0.55 0"/>
+      <feBlend in="SourceGraphic" mode="screen"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <path d="M0 286C138 245 232 260 368 286C518 315 620 305 762 239C901 175 1010 146 1200 185V360H0V286Z" fill="#0D1D29" opacity="0.8"/>
+  <path d="M86 278C240 232 339 254 476 281C610 307 731 266 850 202C958 144 1055 130 1140 150" stroke="url(#accent)" stroke-width="3" opacity="0.75"/>
+  <path d="M82 302C246 256 347 278 482 303C615 328 746 287 869 226C973 174 1060 158 1142 174" stroke="#8FD6FF" stroke-width="1.2" opacity="0.36"/>
+
+  <g opacity="0.36">
+    <path d="M70 82H361M70 122H284M70 162H423" stroke="#CFEAF2" stroke-width="1"/>
+    <path d="M70 82L113 122L154 82L199 162L241 122L284 162L328 82L361 122" stroke="#45C4B0" stroke-width="2"/>
+    <circle cx="113" cy="122" r="4" fill="#45C4B0"/>
+    <circle cx="199" cy="162" r="4" fill="#45C4B0"/>
+    <circle cx="328" cy="82" r="4" fill="#45C4B0"/>
+  </g>
+
+  <g transform="translate(872 70)" filter="url(#softGlow)" opacity="0.95">
+    <circle cx="92" cy="92" r="63" stroke="#8FD6FF" stroke-width="2"/>
+    <circle cx="92" cy="92" r="18" fill="#45C4B0"/>
+    <path d="M92 29V8M92 176V155M155 92H176M8 92H29M137 47L152 32M47 137L32 152M137 137L152 152M47 47L32 32" stroke="#8FD6FF" stroke-width="3" stroke-linecap="round"/>
+    <path d="M52 92H132M92 52V132" stroke="#0B1320" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <g opacity="0.22">
+    <rect x="732" y="245" width="270" height="44" rx="8" stroke="#CFEAF2"/>
+    <path d="M760 267H970M782 245V289M824 245V289M866 245V289M908 245V289M950 245V289" stroke="#CFEAF2"/>
+    <path d="M746 289L725 318H1018L997 289" stroke="#CFEAF2"/>
+  </g>
+
+  <text x="70" y="230" fill="#F7FBFC" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="0">Kwang-ho Lee</text>
+  <text x="72" y="269" fill="#B9D8E1" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="500" letter-spacing="0">Mechanical Engineer | Shipbuilding Design | Machinery Outfitting</text>
+  <text x="72" y="306" fill="#45C4B0" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="0">Designing practical machinery outfitting systems for commercial vessels</text>
+</svg>
