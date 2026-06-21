@@ -1,0 +1,46 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Kwang-ho Lee profile summary</title>
+  <desc id="desc">A concise profile summary card for current role, focus, and tools.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F7FBFC"/>
+      <stop offset="1" stop-color="#EEF5F6"/>
+    </linearGradient>
+    <linearGradient id="line" x1="120" y1="244" x2="1080" y2="244" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1320"/>
+      <stop offset="0.5" stop-color="#287271"/>
+      <stop offset="1" stop-color="#8FD6FF"/>
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-10%" width="110%" height="120%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0B1320" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect x="34" y="24" width="1132" height="252" rx="24" fill="url(#panel)" stroke="#D7E5E8" filter="url(#shadow)"/>
+  <path d="M96 242H1104" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M96 242H240" stroke="#45C4B0" stroke-width="6" stroke-linecap="round" opacity="0.75">
+    <animate attributeName="d" values="M96 242H240;M440 242H584;M784 242H928;M96 242H240" dur="8s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="96" y="78" fill="#0B1320" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">CURRENT</text>
+  <text x="96" y="116" fill="#263A43" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">Engineer @ Hanwha Ocean</text>
+  <text x="96" y="150" fill="#50626A" font-family="Segoe UI, Arial, sans-serif" font-size="19">Machinery Outfitting Design Engineering Team</text>
+  <text x="96" y="180" fill="#50626A" font-family="Segoe UI, Arial, sans-serif" font-size="19">Commercial Ship Business Division</text>
+
+  <text x="470" y="78" fill="#0B1320" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">FOCUS</text>
+  <text x="470" y="116" fill="#263A43" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">Engine-room machinery outfitting</text>
+  <text x="470" y="150" fill="#50626A" font-family="Segoe UI, Arial, sans-serif" font-size="19">Arrangement, foundations, supports</text>
+  <text x="470" y="180" fill="#50626A" font-family="Segoe UI, Arial, sans-serif" font-size="19">Access structures and insulation</text>
+
+  <text x="850" y="78" fill="#0B1320" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">TOOLS</text>
+  <rect x="850" y="96" width="76" height="34" rx="17" fill="#0B1320"/>
+  <text x="888" y="119" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">CAD</text>
+  <rect x="936" y="96" width="110" height="34" rx="17" fill="#287271"/>
+  <text x="991" y="119" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">OUTFITTING</text>
+  <rect x="850" y="142" width="128" height="34" rx="17" fill="#566573"/>
+  <text x="914" y="165" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">ARRANGEMENT</text>
+  <rect x="988" y="142" width="82" height="34" rx="17" fill="#1B4F72"/>
+  <text x="1029" y="165" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">PYTHON</text>
+  <rect x="850" y="188" width="92" height="34" rx="17" fill="#2E86AB"/>
+  <text x="896" y="211" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">MATLAB</text>
+</svg>

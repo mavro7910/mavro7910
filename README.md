@@ -15,19 +15,13 @@
 
 ---
 
-## Current
+![Profile summary](./assets/profile-summary.svg)
 
-**Engineer @ Hanwha Ocean**  
-Machinery Outfitting Design Engineering Team  
-Commercial Ship Business Division
+## Work
 
-I work on engine-room machinery outfitting design for commercial vessels, focusing on arrangement, foundations, supports, access structures, and insulation.
-
-## Focus
-
-- Machinery outfitting design for ship engine-room spaces
+- Engine-room machinery outfitting design for commercial vessels
 - Arrangement coordination with safety, accessibility, and maintainability in mind
-- Mechanical design judgment shaped by production-oriented engineering
+- Foundations, supports, access structures, insulation, and related outfitting elements
 
 ## Experience
 
@@ -58,10 +52,10 @@ Winter Research Intern
 
 `CAD` `Machinery Outfitting` `Arrangement Design` `Mechanical Design` `Python` `MATLAB`
 
-## GitHub
+## Activity
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=mavro7910&show_icons=true&hide_border=true&title_color=0B1320&text_color=243B53&icon_color=287271" alt="Kwang-ho's GitHub stats">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mavro7910&theme=minimal&hide_border=true&area=true&color=287271&line=287271&point=0B1320" alt="GitHub activity graph">
 
 </div>
