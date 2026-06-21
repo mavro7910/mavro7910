@@ -44,7 +44,7 @@
     <path d="M746 289L725 318H1018L997 289" stroke="#CFEAF2"/>
   </g>
 
-  <text x="70" y="230" fill="#F7FBFC" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="0">Kwang-ho Lee</text>
-  <text x="72" y="269" fill="#B9D8E1" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="500" letter-spacing="0">Mechanical Engineer | Shipbuilding Design | Machinery Outfitting</text>
-  <text x="72" y="306" fill="#45C4B0" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="0">Designing practical machinery outfitting systems for commercial vessels</text>
+  <text x="70" y="218" fill="#F7FBFC" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="0">Kwang-ho Lee</text>
+  <text x="72" y="263" fill="#B9D8E1" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="600" letter-spacing="0">Shipbuilding Design | Machinery Outfitting</text>
+  <text x="72" y="303" fill="#45C4B0" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="0">Commercial vessel engineering</text>
 </svg>
